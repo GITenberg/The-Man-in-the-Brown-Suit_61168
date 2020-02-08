@@ -1,0 +1,31 @@
+_repo: The-Man-in-the-Brown-Suit_61168
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Christie, Agatha
+    alias: Christie, Agatha Mary Clarissa Miller
+    birthdate: 1890
+    deathdate: 1976
+    gutenberg_agent_id: '451'
+    url: http://www.gutenberg.org/2009/agents/451
+    wikipedia: http://en.wikipedia.org/wiki/Agatha_Christie
+description: ''
+gutenberg_issued: '2020-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61168'
+  lccn: '24025524'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcsh 'Women adventurers -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'South Africa -- Fiction'
+- GITenberg
+title: The Man in the Brown Suit
+url: http://www.gutenberg.org/ebooks/61168
